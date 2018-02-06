@@ -1,0 +1,19 @@
+[
+	{"typeId":1000,"isProfit":false,"showText":"用户提现","typeText":"提"},
+	{"typeId":1001,"isProfit":false,"showText":"转账记录-转出","typeText":"转"},
+	{"typeId":1002,"isProfit":true,"showText":"转账记录-转入","typeText":"转"},
+	{"typeId":1010,"isProfit":false,"showText":"商城购买","typeText":"购"},
+	{"typeId":1012,"isProfit":true,"showText":"红包值增加","typeText":"增"},
+	{"typeId":1013,"isProfit":true,"showText":"拆红包-可用通贝","typeText":"得"},
+    {"typeId":1015,"isProfit":true,"showText":"注册成功","typeText":"赠"},
+	{"typeId":1016,"isProfit":true,"showText":"发展粉丝","typeText":"得"},
+	{"typeId":1018,"isProfit":true,"showText":"消费得云积分","typeText":"得"},
+	{"typeId":1019,"isProfit":true,"showText":"消费红包","typeText":"拆"},
+	{"typeId":1020,"isProfit":true,"showText":"推广红包","typeText":"拆"},
+	{"typeId":1021,"isProfit":false,"showText":"本地生活购买-云积分","typeText":"支"},
+	{"typeId":1022,"isProfit":false,"showText":"本地生活购买-可用通贝","typeText":"支"},
+	{"typeId":1023,"isProfit":true,"showText":"本地生活退款-云积分","typeText":"退"},
+	{"typeId":1024,"isProfit":true,"showText":"本地生活退款-可用通贝","typeText":"退"},
+    {"typeId":1027,"isProfit":true,"showText":"管理员充值","typeText":"充"},
+    {"typeId":1028,"isProfit":false,"showText":"管理员扣款","typeText":"扣"}
+]
